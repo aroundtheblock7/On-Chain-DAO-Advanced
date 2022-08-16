@@ -17,7 +17,7 @@
 * yarn hardhat node (keep terminal open & running before running scripts below)
 * yarn hardhat run scripts/propose.ts --network localhost
 * yarn hardhat run scripts/vote.ts --network localhost
-* yarn hardhat run queue-and-execute.ts --network localhost
+* yarn hardhat run scripts/queue-and-execute.ts --network localhost
 
 ### In the screen shots below, we see in order...
 1. Successful compilation and deployment of all the contracts. 
