@@ -18,3 +18,9 @@
 3. The proposalId populated in proposals.json file
 4. Successful voting confirmation on the proposal
 5. Successful execution which ulimately changed the value in the Box contract.
+
+<img width="1334" alt="Screen Shot 2022-08-15 at 12 12 21 AM" src="https://user-images.githubusercontent.com/81759076/184789927-f3e67780-5b22-4aa7-83a8-6431a2facc39.png">
+<img width="1382" alt="Screen Shot 2022-08-15 at 10 26 22 AM" src="https://user-images.githubusercontent.com/81759076/184789950-26ee4290-0935-4cf6-8df4-e170dad186da.png">
+<img width="1280" alt="Screen Shot 2022-08-15 at 5 42 12 PM" src="https://user-images.githubusercontent.com/81759076/184789967-1269f3a9-8c97-4385-be04-7f690d251bb6.png">
+<img width="874" alt="Screen Shot 2022-08-15 at 7 09 03 PM" src="https://user-images.githubusercontent.com/81759076/184789991-57ce4400-0e3c-4ffe-98cd-af98bcef3099.png">
+<img width="1201" alt="Screen Shot 2022-08-15 at 8 55 08 PM" src="https://user-images.githubusercontent.com/81759076/184790011-8419b20f-ad44-4dd6-8677-12860dedc1ad.png">
