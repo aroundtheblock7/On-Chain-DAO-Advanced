@@ -12,7 +12,7 @@
 
 ### To facilitate with deployment and scripts we used hardhat-deploy, helper-hardhat-config, typechain/hardhat, and a number of other modules using typescript. Our scripts files include making a proposal, voting on it, and queuing & exectuting it. Being that we are using hardhat's localhost to deploy this project and run scripts we had to also set up 2 seperate files in our utils folder that allow us to move-time and move-blocks which helps us simulate the time interval that must be met before executing a proposal that has been voted on. 
 
-### To run deploy project and run scripts..
+### To deploy project and run scripts..
 * yarn hardhat deploy
 * yarn hardhat node (keep terminal open & running before running scripts below)
 * yarn hardhat run scripts/propose.ts --network localhost
