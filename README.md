@@ -14,10 +14,10 @@
 
 ### In the screen shots below, we see in order...
 1. Successful compilation and deployment of all the contracts. 
-2. Successful proposal to change the value of the Box contract
-3. The proposalId populated in proposals.json file
-4. Successful voting confirmation on the proposal
-5. Successful execution which ulimately changed the value in the Box contract.
+2. Successful proposal to change the value of the Box contract (scripts/propose.ts)
+3. The proposal-ID populated in proposals.json file through automation 
+4. Successful voting confirmation on the proposal (scripts/vote.ts)
+5. Successful execution which ulimately changed the value in the Box contract (scripts/queue-and-execute.ts)
 
 <img width="1334" alt="Screen Shot 2022-08-15 at 12 12 21 AM" src="https://user-images.githubusercontent.com/81759076/184789927-f3e67780-5b22-4aa7-83a8-6431a2facc39.png">
 <img width="1382" alt="Screen Shot 2022-08-15 at 10 26 22 AM" src="https://user-images.githubusercontent.com/81759076/184789950-26ee4290-0935-4cf6-8df4-e170dad186da.png">
