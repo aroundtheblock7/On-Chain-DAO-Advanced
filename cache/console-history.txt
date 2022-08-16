@@ -1,0 +1,10 @@
+await governor.state("20410873684195684007502903743313035195888380351590997192411449750453432545334")
+const governor = await ethers.getContract("GovernorContract");
+yarn  hardhat run scripts/propose.ts
+npx hardhat run scripts/propose.ts
+npm hardhat run scripts/propose.ts
+npx hardhat run scripts/propose.ts
+npx hardhat run scripts/propose.t
+npx hardhat run scripts/propose.ts --network localhost
+yarn hardhat console
+npx hardhat console
